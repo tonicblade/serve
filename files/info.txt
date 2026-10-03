@@ -1,0 +1,4 @@
+1 shouldnt fail compression
+2 is hard for compression algorithm
+3 is heavily compressed by origin
+they should all be able to be viewed directly in browser without issue (0xc00014a violation // compression failed for x; unable to serve compressed response)
